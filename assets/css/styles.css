@@ -1,0 +1,22 @@
+
+
+ @import url("https://fonts.googleapis.com/css?family=Architects+Daughter|Bellefair");
+ol{
+    list-style-type: none;
+}
+ol.li.a{
+    text-decoration: none;
+}
+@font-face{
+    font-family: asap;
+    src: url('../fonts/Asap-Regular.ttf') format('truetype');
+    font-weight: 400px;
+}
+.container-fluid.row.col-sm-10.container.home{
+            font-family: asap, Helvetica, Arial, sans-serif;
+            color: green;
+}
+a:visited{
+    color: skyblue;
+}
+  
